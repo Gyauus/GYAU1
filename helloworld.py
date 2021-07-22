@@ -81,3 +81,10 @@ def tri_recursion(k):
   print("\n\nRecursion Example Results")
   tri_recursion(6)    
 #HOME
+def myfunc():
+    result=("God is  " + X )
+    IF X = "Jehovah Jireh"
+    print (result)
+    
+    
+    
